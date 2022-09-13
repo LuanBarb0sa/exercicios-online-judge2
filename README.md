@@ -8,5 +8,6 @@
 <li> URI 1060 | Números Positivos ✔️ </li> 
 <li> URI 1134 | Tipo Combustível ✔️ </li> 
 <li> URI 1065 | Pares entre cinco números✔️ </li>
+<li> URI 1066 | Pares, Ímpares, Positivos e Negativos✔️ </li>
 </ol>
 
