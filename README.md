@@ -13,6 +13,7 @@
 <li> URI 1132 | Seis Múltiplos de 13✔️ </li>
 <li> URI 2344 | Notas da prova✔️ </li>
 <li> URI 3055 | Nota Esquecida✔️ </li>
+<li> URI 1153 | Fatorial Simples✔️ </li>
 
 </ol>
 
