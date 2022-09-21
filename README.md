@@ -16,6 +16,7 @@
 <li> URI 1153 | Fatorial Simples✔️ </li>
 <li> URI 1036 | Fórmula de Bhaskara ✔️ </li>
 <li> URI 1116 | Dividindo X por Y ✔️ </li>
+<li> URI 1117 | Validação de Nota ✔️ </li>
 
 </ol>
 
