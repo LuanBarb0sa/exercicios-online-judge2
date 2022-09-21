@@ -14,6 +14,8 @@
 <li> URI 2344 | Notas da prova✔️ </li>
 <li> URI 3055 | Nota Esquecida✔️ </li>
 <li> URI 1153 | Fatorial Simples✔️ </li>
+<li> URI 1036 | Fórmula de Bhaskara ✔️ </li>
+<li> URI 1116 | Dividindo X por Y ✔️ </li>
 
 </ol>
 
