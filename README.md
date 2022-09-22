@@ -18,6 +18,7 @@
 <li> URI 1116 | Dividindo X por Y ✔️ </li>
 <li> URI 1117 | Validação de Nota ✔️ </li>
 <li> URI 1073 | Quadrado de Pares ✔️ </li>
+<li> URI 1154 | Idades ✔️ </li>
 
 </ol>
 
