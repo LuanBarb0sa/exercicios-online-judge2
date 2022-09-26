@@ -20,6 +20,7 @@
 <li> URI 1073 | Quadrado de Pares ✔️ </li>
 <li> URI 1154 | Idades ✔️ </li>
 <li> URI 1985 | MacPRONALTS ✔️ </li>
+<li> URI 1133 | Resto da Divisão ✔️ </li>
 
 </ol>
 
