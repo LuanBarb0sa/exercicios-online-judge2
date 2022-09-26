@@ -19,6 +19,7 @@
 <li> URI 1117 | Validação de Nota ✔️ </li>
 <li> URI 1073 | Quadrado de Pares ✔️ </li>
 <li> URI 1154 | Idades ✔️ </li>
+<li> URI 1985 | MacPRONALTS ✔️ </li>
 
 </ol>
 
