@@ -23,6 +23,7 @@
 <li> URI 1133 | Resto da Divisão ✔️ </li>
 <li> URI 3091 | Resto 1.0 ✔️ </li>
 <li> URI 1173 | Preenchimento de Vetor 1✔️ </li>
+<li> URI 1064 | Positivos e Média✔️ </li>
 
 
 </ol>
